@@ -1,1 +1,1 @@
-# predicting-mutagenicity-streamlit
+# Mutagenicity-Prediction-App
